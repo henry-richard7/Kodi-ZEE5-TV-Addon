@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Kodi-ZEE5-TV-Addon/total.svg?style=for-the-badge&logo=github)
+
 # Kodi ZEE5 TV Addon
  A kodi Addon That Allows You To Watch Live TV From ZEE5 OTT Platform without ZEE5 Account.
 
